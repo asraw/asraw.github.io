@@ -1,13 +1,13 @@
 baseURL = 'http://asraw.github.io/'
 languageCode = 'en-us'
-title = 'Yet another Blog'
+title = 'Asra Sakeen Wani'
 
 theme = "researcher"
 enableEmoji = true
 math = true          # enable KaTeX (https://katex.org/) globally
 
 [params]
-  author = "Asra Sakeen"
+  author = "Asra Sakeen Wani"
   description = "A simple website"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
@@ -28,6 +28,10 @@ math = true          # enable KaTeX (https://katex.org/) globally
     icon = "fas fa-envelope"
     title = "E-mail"
     url = "mailto:asraw@iiitd.ac.in"
+  [[params.socialIcons]]
+    icon = "fas fa-linkedin"
+    title = "LinkedinIn"
+    url = "https://linkedin.com/in/asraw"
 
 [permalinks]
   "/" = "/:filename"
