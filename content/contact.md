@@ -2,24 +2,24 @@
 title = "Contact"
 +++
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [foo@xyz.com](mailto:asraw@iiitd.ac.in)
+<!-- * Phone: [+91-123123](tel:+91-123123) -->
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> A-515, Mélange Lab R&D Building
 >
-> London
+> IIIT-Delhi
 >
-> United Kingdom
+> Okhla Industrial Estate, Phase III, near Govind Puri Metro Station, New Delhi, Delhi 110020
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](#https://twitter.com/iasrasakeen)
+2. [Github](#https://github.com/asraw)
+
 
