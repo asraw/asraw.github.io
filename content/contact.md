@@ -10,8 +10,11 @@ title = "Contact"
 ## Mailing Address
 
 > A-515, Mélange-Lab, R&D Building
+> 
 >IIIT-Delhi
+>
 >Okhla Industrial Estate, Phase III, 
+>
 >near Govind Puri Metro Station, New Delhi, Delhi 110020
 
 ---
