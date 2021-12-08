@@ -4,7 +4,7 @@ title = "About"
 
 ## About
 
-Hi! I am Asra.👋🏻
+Hi!I am Asra👋🏼.
 
 Pronouns: <mark>she/her</mark>
 
