@@ -2,7 +2,7 @@
 title = "Contact"
 +++
 
-* Email: [foo@xyz.com](mailto:asraw@iiitd.ac.in)
+* Email: [asraw@iiitd.ac.in](mailto:asraw@iiitd.ac.in)
 <!-- * Phone: [+91-123123](tel:+91-123123) -->
 
 ---
