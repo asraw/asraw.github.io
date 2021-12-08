@@ -19,7 +19,7 @@ title = "Contact"
 
 ## Social
 
-1. [Twitter](#https://twitter.com/iasrasakeen)
-2. [Github](#https://github.com/asraw)
+1. [Twitter](https://twitter.com/iasrasakeen)
+2. [Github](https://github.com/asraw)
 
 
